@@ -16,10 +16,12 @@ $ cd {repo_addr}
 ## Installation
 ```shell
 $ pip install -r requirements.txt
+```
 
 ## Features
+
 - Daily record of what I learned
 
 ## Creadits
+
 - @JaeminKIM-Irene
-```
